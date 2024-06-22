@@ -1,0 +1,7 @@
+Logged in to my github account
+created a new repository called "PLPBasicGitAssignment" and initialized it with a README file
+Created a folder "basic-git-and-github-workflow"
+On my terminal "cd basic-git-and-github-workflow"
+typed "git init"
+git remote add origin https://github.com/blaqueDeveloper/PLPBasicGitAssignment.git
+created "Hello.txt" file and added some text
